@@ -35,7 +35,7 @@ function batchWriteSessionsToTable(sessions, id) {
     
     var params = {
       RequestItems: { 
-        TABLE_NAME : completed
+        "LWTSessions" : completed
       }
     };
     console.log("Starting batchWrite call for id " + id);
