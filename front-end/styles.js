@@ -598,8 +598,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/agathao/Documents/LWT/SessionsScheduler/node_modules/open-iconic/font/css/open-iconic-bootstrap.min.css */"./node_modules/open-iconic/font/css/open-iconic-bootstrap.min.css");
-module.exports = __webpack_require__(/*! /Users/agathao/Documents/LWT/SessionsScheduler/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /Users/agathao/Documents/LWT/front-end/SessionsScheduler/node_modules/open-iconic/font/css/open-iconic-bootstrap.min.css */"./node_modules/open-iconic/font/css/open-iconic-bootstrap.min.css");
+module.exports = __webpack_require__(/*! /Users/agathao/Documents/LWT/front-end/SessionsScheduler/src/styles.css */"./src/styles.css");
 
 
 /***/ })
